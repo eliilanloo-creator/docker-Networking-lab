@@ -1,7 +1,7 @@
 Docker Network Routing Lab
 
 This lab demonstrates a Docker-based network simulation
-using multiple Docker bridge networks, 
+using multiple Docker bridge networks
 with a router container enabling routing and
 inter-network communication.
 
