@@ -7,13 +7,7 @@ inter-network communication.
 
 
 
-Technical Concepts Demonstrated
 
-- Docker custom bridge networks
-- Linux static routing
-- IP forwarding
-- Multi-homed container (router)
-- Layer 3 packet forwarding inside container
 
 Network Topology
 
