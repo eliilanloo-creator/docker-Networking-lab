@@ -8,20 +8,19 @@ inter-network communication.
 
 
 
-##Network Topology
+Network Topology
 
 - Network `sw1`: 10.1.1.0/24
 - Network `sw2`: 10.1.2.0/24
 - Router container (`R1`) connected to both networks
 - Client containers (`c1`, `c2`) connected to separate networks
 
-
-### Setup Lab
+ Setup Lab
 ``bash
 ./scripts/setup.sh
 
 
-## Technical Concepts Demonstrated
+Technical Concepts Demonstrated
 
 - Docker custom bridge networks
 - Linux static routing
