@@ -1,11 +1,17 @@
 Docker Network Routing Lab
 
 This lab demonstrates a Docker-based network simulation
-using multiple Docker bridge networks,
+using multiple Docker bridge networks, 
 with a router container enabling routing and
 inter-network communication.
 
+Technical Concepts Demonstrated
 
+- Docker custom bridge networks
+- Linux static routing
+- IP forwarding
+- Multi-homed container (router)
+- Layer 3 packet forwarding inside container
 
 
 
