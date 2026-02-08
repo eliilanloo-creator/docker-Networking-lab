@@ -1,8 +1,8 @@
 Docker Network Routing Lab
 
 This lab demonstrates a Docker-based network simulation
-using multiple Docker bridge networks,
-with a router container enabling routing and
+using multiple Docker bridge networks with a 
+router container enabling routing and
 inter-network communication.
 
 Technical Concepts Demonstrated
@@ -39,9 +39,4 @@ Test connectivity between clients
  Cleanup section
 ```bash
 ./scripts/cleanup.sh
-
-
-
-
-
 
